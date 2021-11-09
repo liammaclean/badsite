@@ -17,12 +17,14 @@ $darkMagenta: #8B008B;
 $grayBlue: #585c7a;
 $fuchsia: #e620c8;
 $limeGreen: #7FFFD4;
+$salmon: #fa8072;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$comicSans: "Wingdings 3", "Comic Sans MS", "Comic Sans", cursive;
+$comicSans: "Comic Sans MS", "Comic Sans", cursive;
+$wingdings: "Wingdings 3", "Wingdings", Times New Roman, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
