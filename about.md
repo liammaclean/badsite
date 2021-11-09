@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
 Ich bin ein Historiker des deuschten Geschichte!
 
-### Contact me
+### Bio
+
+Ich studie die deutsche Linke, ihre Geschichte, und ihre Zukunft.
+
+### Kontaktinformationen
 
 [maclean.li@northeastern.edu](mailto:maclean.li@northeastern.edu)
