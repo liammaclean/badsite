@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: Hallo Welt!
 ---
 
-This is your first blog post--make it your own!
+Das ist deine erste Blogpost! Hallo Welt!
