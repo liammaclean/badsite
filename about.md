@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-h3  {color: red, font-family: Comic Sans}
+
 The heart of this project is a deeper understanding if the Triangle Shirtwaist Factory Fire and it's role in American labor history. 
 
 ### Core Goals
